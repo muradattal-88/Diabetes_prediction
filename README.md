@@ -1,2 +1,2 @@
 # Diabetes_prediction
-A clinical machine learning pipeline for predicting diabetes risk in female patients.
+This project uses 3 different machine learning algorithms to predict diabetes risk among female patients. Logistic regression, gradient boosting and random forest algorithms were used. Among the 3, gradient boosting was the winner. Logistic regression and random forest showed slightly higher accuracy than gradient boosting. However, gradient boosting was far better in the recall score which is the crucial measurement in medical diagnosis so that we do not miss diabetics.
